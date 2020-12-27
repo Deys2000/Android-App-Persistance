@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Persistance</string>
+    <string name="home_button_1">Table Library</string>
+    <string name="home_button_2">Practice</string>
+    <string name="home_button_3">Take a Test</string>
+    <string name="home_button_4">Records</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string-array name="android_versions">
+        <item>lollipop</item>
+        <item>mango</item>
+        <item>nougat</item>
+        <item>oreo</item>
+    </string-array>
+</resources>
